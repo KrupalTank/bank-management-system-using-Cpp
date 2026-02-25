@@ -1,0 +1,43 @@
+name   : tank krupal ghanshyambhai
+id     : 17
+pin    : 26500
+status : 1
+amount : 96976.6
+mobile : 9428747116
+record of transaction : 
+______________________________________________________________________
+Transaction Amount : -4514.4 Time : Mon Oct 21 08:42:23 2024
+Transaction Amount : -5445 Time : Mon Oct 21 08:42:37 2024
+Transaction Amount : 1236 Time : Mon Oct 21 08:43:01 2024
+Transaction Amount : 4500 Time : Mon Oct 21 08:43:21 2024
+Transaction Amount : 1200 Time : Mon Oct 21 08:46:09 2024
+============================================================================
+
+name   : patel het bhai
+id     : 30
+pin    : 19169
+status : 1
+amount : 100910
+mobile : 9400126350
+record of transaction : 
+______________________________________________________________________
+Transaction Amount : 5500 Time : Mon Oct 21 08:42:37 2024
+Transaction Amount : -2178 Time : Mon Oct 21 08:42:45 2024
+Transaction Amount : -1223.64 Time : Mon Oct 21 08:43:01 2024
+Transaction Amount : -1188 Time : Mon Oct 21 08:46:09 2024
+============================================================================
+
+name   : pabani jash rajeshbhai
+id     : 8
+pin    : 15724
+status : 1
+amount : 102305
+mobile : 963523041
+record of transaction : 
+______________________________________________________________________
+Transaction Amount : 4560 Time : Mon Oct 21 08:42:23 2024
+Transaction Amount : 2200 Time : Mon Oct 21 08:42:45 2024
+Transaction Amount : -4455 Time : Mon Oct 21 08:43:21 2024
+============================================================================
+
+https://st7tank.github.io/Portfolio/
